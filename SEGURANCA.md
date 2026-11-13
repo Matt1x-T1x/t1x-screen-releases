@@ -2,7 +2,7 @@
 
 ## Canal oficial
 
-Baixe por https://github.com/mathadoor23/t1x-screen-releases/releases/latest . O GitHub hospeda a distribuição; isso não equivale a aprovação, auditoria ou certificado de editor emitido pelo GitHub.
+Baixe por https://github.com/Matt1x-T1x/t1x-screen-releases/releases/latest . O GitHub hospeda a distribuição; isso não equivale a aprovação, auditoria ou certificado de editor emitido pelo GitHub.
 
 As atualizações do aplicativo verificam manifesto Ed25519 e hash do instalador. A chave privada do publicador não é distribuída. Releases a partir de 0.1.6 têm arquivos e tags protegidos contra alteração após publicar, com atestado verificável do GitHub. Essa proteção não se aplica retroativamente aos releases antigos.
 
@@ -12,7 +12,7 @@ Não há certificado Authenticode de editor atualmente. Não desative antivírus
 
 ## Reportar vulnerabilidade em privado
 
-Use [Report a vulnerability](https://github.com/mathadoor23/t1x-screen-releases/security/advisories/new). Esse canal é privado para o responsável pelo repositório. Informe versão, passos mínimos para reproduzir e impacto observado, sem dados de terceiros, credenciais ou convites reais.
+Use [Report a vulnerability](https://github.com/Matt1x-T1x/t1x-screen-releases/security/advisories/new). Esse canal é privado para o responsável pelo repositório. Informe versão, passos mínimos para reproduzir e impacto observado, sem dados de terceiros, credenciais ou convites reais.
 
 Problemas comuns de uso podem ir para as Issues. Não publique detalhes de exploração ou dados sensíveis nelas. Não há programa de recompensa ou prazo de resposta anunciado.
 
