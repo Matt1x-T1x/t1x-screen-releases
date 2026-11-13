@@ -6,7 +6,7 @@ Compartilhe tela, câmera, voz e conversa em salas privadas por convite.
 
 ## Baixar
 
-[**Baixar a versão mais recente**](https://github.com/mathadoor23/t1x-screen-releases/releases/latest)
+[**Baixar a versão mais recente**](https://github.com/Matt1x-T1x/t1x-screen-releases/releases/latest)
 
 Na página da versão, abra **Assets** e baixe o arquivo **T1x-Screen-Setup-VERSAO.exe**. Esse é o instalador completo. Os arquivos JSON, YAML, blockmap e SHA256SUMS são usados para atualização e conferência; não é necessário abri-los para instalar.
 
@@ -46,14 +46,14 @@ Get-FileHash -Algorithm SHA256 -LiteralPath '.\T1x-Screen-Setup-VERSAO.exe'
 Compare o hash completo com a linha correspondente do arquivo de checksums da mesma versão. Um hash igual confirma correspondência com o arquivo publicado; não comprova ausência de malware. Quem usa GitHub CLI pode verificar o atestado do release:
 
 ```powershell
-gh release verify-asset vVERSAO '.\T1x-Screen-Setup-VERSAO.exe' --repo mathadoor23/t1x-screen-releases
+gh release verify-asset vVERSAO '.\T1x-Screen-Setup-VERSAO.exe' --repo Matt1x-T1x/t1x-screen-releases
 ```
 
 ## Privacidade e suporte
 
 Leia [Privacidade](PRIVACIDADE.md) antes de compartilhar informações sensíveis e [Segurança](SEGURANCA.md) para reportar problemas.
 
-Falhas de uso podem ser registradas nas [Issues](https://github.com/mathadoor23/t1x-screen-releases/issues). Informe versão, Windows, passos e mensagem de erro. Não inclua senhas, convites completos, dados pessoais ou conteúdo privado das transmissões.
+Falhas de uso podem ser registradas nas [Issues](https://github.com/Matt1x-T1x/t1x-screen-releases/issues). Informe versão, Windows, passos e mensagem de erro. Não inclua senhas, convites completos, dados pessoais ou conteúdo privado das transmissões.
 
 Esta é uma versão Beta. Houve testes automatizados e locais; ainda faltam ensaios prolongados em outras máquinas e redes. A consulta de atualizações, o download e as verificações criptográficas foram testados; a instalação/reinício em uso real por diferentes pessoas ainda precisa ser observada.
 
